@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9Lucky9
 - 👀 I’m interested in Object-oriented programming
-- 🌱 I’m currently learning С#, Kotlin, MS SQL, WPF
+- 🌱 I’m currently learning С#, MS SQL, WPF, REST, .Net, .Net core, EF Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
