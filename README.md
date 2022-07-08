@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @9Lucky9
-- 👀 I’m interested in Object-oriented programming
-- 🌱 I’m currently learning С#, MS SQL, WPF, REST, .Net, .Net core, EF Core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Junior backend developer asp.net C#.
+Current responsibilities: Write backend code, unit testing, integration testing.
 
 <!---
 9Lucky9/9Lucky9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
